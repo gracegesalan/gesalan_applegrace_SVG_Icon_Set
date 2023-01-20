@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="168.69" height="225.62" viewBox="0 0 168.69 225.62">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="60.3" height="78.58" viewBox="0 0 60.3 78.58">
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke: #231f20;
-        stroke-width: 4px;
+        stroke: #fff;
+        stroke-width: 3px;
       }
 
       .cls-1, .cls-2 {
@@ -13,11 +12,12 @@
       }
 
       .cls-2 {
-        stroke: #fff;
-        stroke-width: 8px;
+        fill: none;
+        stroke: #231f20;
+        stroke-width: 4px;
       }
     </style>
   </defs>
-  <path class="cls-1" d="M166.69,141.28c0,45.48-36.87,82.35-82.35,82.35S2,186.76,2,141.28,37.6,60.21,81.99,58.97c.78-.02,1.56-.03,2.35-.03,45.48,0,82.35,36.87,82.35,82.35Z"/>
-  <rect class="cls-2" x="74.45" y="4" width="19.8" height="121.99" rx="7.98" ry="7.98"/>
+  <path class="cls-2" d="M58.3,48.43c0,15.55-12.6,28.15-28.15,28.15S2,63.98,2,48.43,14.17,20.72,29.35,20.29c.27,0,.53-.01,.8-.01,15.55,0,28.15,12.6,28.15,28.15Z"/>
+  <rect class="cls-1" x="26.77" y="1.5" width="6.77" height="41.7" rx="2.73" ry="2.73"/>
 </svg>
