@@ -4,11 +4,13 @@
 
 #container {
     margin: 20px;
+    display: flex;
+    
 }
 
 #main-icons {
     padding-left: 100px;
-    padding-right: 100px;
+
 }
 
 body {
@@ -24,4 +26,30 @@ h2 {
     padding: 15px;
     text-align: center;
     padding-top: 100px;
+}
+
+p {
+    padding-top: 3px;
+    font-family: 'Elsie Swash Caps', cursive;
+}
+
+.content-items {
+    display: flex;
+    width: 30%;
+    flex-direction: row;
+    height: 50px;
+}
+
+img:hover {
+    background-color: blue;
+}
+
+p:hover::before {
+    height: 100%;
+    transition: all 1s cubic-bezier(0.75, 0.81, 0.165, 1);
+}
+
+p:hover span {
+    letter-spacing: 4px;
+    color: blueviolet;
 }
