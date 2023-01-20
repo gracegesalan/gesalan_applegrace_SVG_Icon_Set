@@ -1,0 +1,25 @@
+.hidden {
+    display: none;
+}
+
+#container {
+
+}
+
+#main-icons {
+
+}
+
+body {
+
+}
+
+h2 {
+    font-family: 'Yatra One', cursive;
+    font-weight: normal;
+    font-size: 55px;
+    letter-spacing: 1px;
+    color: black;
+    padding: 15px;
+    padding-left: 700px;
+}
