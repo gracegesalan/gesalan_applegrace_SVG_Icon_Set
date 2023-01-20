@@ -53,3 +53,7 @@ p:hover span {
     letter-spacing: 4px;
     color: blueviolet;
 }
+
+img {
+    display: inline-block;
+}
