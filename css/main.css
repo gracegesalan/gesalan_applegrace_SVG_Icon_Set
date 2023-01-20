@@ -3,15 +3,16 @@
 }
 
 #container {
-
+    margin: 20px;
 }
 
 #main-icons {
-
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 body {
-
+    font-family: 'Elsie Swash Caps', cursive;
 }
 
 h2 {
