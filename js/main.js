@@ -1,5 +1,7 @@
 console.log('Javascript is running');
 
+const vectorGraphic = document.querySelector('#newBadge');
+
 function LocationIcon() {
     console.log("You have clicked the Location Icon");
 }
