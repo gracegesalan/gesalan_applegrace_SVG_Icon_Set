@@ -13,6 +13,27 @@
 
 }
 
+.grid {
+    display: grid;
+    
+}
+
+#main-header {
+    margin-top: 40px;
+}
+
+#header-logo {
+    width: 270px;
+    height: 100px;
+
+}
+
+#header-nav {
+    height: 70px;
+    width: 570px;
+    margin-top: 15px;
+}
+
 body {
     font-family: 'Elsie Swash Caps', cursive;
 }
