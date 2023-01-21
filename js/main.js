@@ -33,7 +33,7 @@ function CheckMarkIcon() {
     console.log("You have clicked the Check Mark Icon");
 }
 
-LocationIcon.addEventListener('click' , logID);
+LocationIcon.addEventListener('click' , LocationArrowIcon);
 GlobeIcon.addEventListener('click' , GlobeIcon);
 HouseIcon.addEventListener('click' , HouseIcon);
 WallClockIcon.addEventListener('click' , WallClockIcon);
