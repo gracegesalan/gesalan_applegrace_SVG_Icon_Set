@@ -30,3 +30,14 @@ function PowerIcon() {
 function CheckMarkIcon() {
     console.log("You have clicked the Check Mark Icon");
 }
+
+LocationIcon.addEventListener('click' , logID);
+GlobeIcon.addEventListener('click' , GlobeIcon);
+HouseIcon.addEventListener('click' , HouseIcon);
+WallClockIcon.addEventListener('click' , WallClockIcon);
+EnvelopeIcon.addEventListener('click' , EnvelopeIcon);
+LocationArrowIcon.addEventListener('click' , LocationArrowIcon);
+SmartphoneIcon.addEventListener('click' , SmartphoneIcon);
+MagnifyingGlassIcon.addEventListener('click' , MagnifyingGlassIcon);
+PowerIcon.addEventListener('click' , PowerIcon);
+CheckMarkIcon.addEventListener('click' , CheckMarkIcon);
