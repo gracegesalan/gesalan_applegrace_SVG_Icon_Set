@@ -103,6 +103,11 @@ h3 {
     font-family: 'Elsie Swash Caps', cursive;
 }
 
+.box-color {
+    background-color: gray;
+    text-align: center;
+}
+
 .box-color2 {
     background-color: gray;
     text-align: center;
