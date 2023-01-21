@@ -15,6 +15,10 @@ let CheckMarkIcon = document.querySelector('#CheckMarkIcon');
 
 const vectorGraphic = document.querySelector('#newBadge');
 
+function logID() {
+    console.log(this.id);
+}
+
 function LocationIcon() {
     console.log("You have clicked the Location Icon");
 }
