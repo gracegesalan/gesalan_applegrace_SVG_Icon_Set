@@ -10,7 +10,7 @@
 
 #main-icons {
     padding-left: 100px;
-
+    padding-top: 50px;
 }
 
 .grid {
@@ -23,9 +23,9 @@
 }
 
 #header-logo {
-    width: 270px;
+    
     height: 100px;
-
+    
 }
 
 #header-nav {
@@ -88,19 +88,29 @@ ul li {
 
 #footer-con-full {
     height: 100px;
-    margin-top: 150px;
+    
 }
 
 #footer-nav {
-    width: 640px;
+    
     height: 70px;
     margin-top: 15px;
     
 }
 
+footer {
+    bottom: 0;
+    
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+}
+
 h3 {
+    font-family: 'Yatra One', cursive;
     text-align: center;
-    font-family: 'Elsie Swash Caps', cursive;
+    padding-top: 20px;
+    
 }
 
 .box-color {
@@ -108,7 +118,14 @@ h3 {
     text-align: center;
 }
 
+ main
 .box-color2 {
     background-color: gray;
     text-align: center;
+}
+
+h4 {
+    font-family: 'Yatra One', cursive;
+    text-align: center;
+    padding-top: 20px;
 }
