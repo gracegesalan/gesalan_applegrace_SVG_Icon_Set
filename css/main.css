@@ -113,15 +113,12 @@ h3 {
     
 }
 
-<<<<<<< Updated upstream
-=======
 .box-color {
     background-color: gray;
     text-align: center;
-    grid-column: 1/-1;
 }
 
->>>>>>> Stashed changes
+ main
 .box-color2 {
     background-color: gray;
     text-align: center;
