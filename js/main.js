@@ -33,6 +33,8 @@ function CheckMarkIcon() {
     console.log("You have clicked the Check Mark Icon");
 }
 
+vectorGraphic.addEventListener('click', logthisId)
+
 LocationIcon.addEventListener('click' , LocationArrowIcon);
 GlobeIcon.addEventListener('click' , GlobeIcon);
 HouseIcon.addEventListener('click' , HouseIcon);
