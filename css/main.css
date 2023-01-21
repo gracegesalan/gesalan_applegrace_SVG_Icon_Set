@@ -48,14 +48,9 @@ img:hover {
     cursor: grabbing;
 }
 
-p:hover::before {
-    height: 100%;
-    transition: all 1s cubic-bezier(0.75, 0.81, 0.165, 1);
-}
-
-p:hover span {
-    letter-spacing: 4px;
-    color: blueviolet;
+p:hover {
+    color: green;
+    cursor: crosshair ;
 }
 
 ul {
